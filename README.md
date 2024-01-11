@@ -1,1 +1,0 @@
-this will be my first python task to undertake,hope it is smoother than c.
